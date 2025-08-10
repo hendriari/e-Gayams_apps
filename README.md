@@ -1,2 +1,2 @@
 # e-Gayams_apps
-UMKM Gayamsari Kota Semarang menggunakan pendekatan dual application pada platform two-sided marketplace
+UMKM Gayamsari Kota Semarang berbasis mobile menggunakan pendekatan dual application pada platform two-sided marketplace tahun 2022
